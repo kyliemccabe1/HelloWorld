@@ -3,5 +3,7 @@
 ###### Heading
 _this text is in italics!_
 > "this should now be a quote"
-linked to my [linkedin](https://www.linkedin.com/in/kyliemmccabe/)
-> ok so that should be 4, I know these were not the standard ones but I thought these would be fun
+
+	linked to my [linkedin](https://www.linkedin.com/in/kyliemmccabe/)
+
+		> ok so that should be 4, I know these were not the standard ones but I thought these would be fun
